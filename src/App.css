@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: black;
+  
+}
+
+.nav-list {
+    background:none;
+    border:none;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+    color: white;
+    margin: 5px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icons {
+  display: flex;
+  color: white;
+  align-items: center;
+}
+
+header > div {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.profile-photo {
+  width: 200px;
+  height: 200px;
+}
+
+.primary-page {
+  display: flex;
+}
+
+.confirmationButton {
+  display: block;
+  
+}
+
+.primary-content {
+  flex: 1 auto;
+}

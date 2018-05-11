@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* .App {
+  text-align: center;
+}
+
+header {
+  background-color: black;
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.flex {
+  display: flex;
+  
+  border: green solid;
+}
+
+ul {
+  align-items: center;
+  display: inline-block;
+  list-style-type: none;
+  list-style-position: initial;
+  box-sizing: border-box;
+  display: flex;
+  
+}
+
+li {
+    background:none;
+    border:none;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+} */
